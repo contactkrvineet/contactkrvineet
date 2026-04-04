@@ -3,28 +3,48 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=200&section=header&text=Vineet%20Kumar&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Vineet Kumar</h1>
-<h3 align="center">🚀 SDET Lead | 🤖 AI Test Automation Enthusiast | 🧪 Automation Architect</h3>
+# 🤖 Autonomous QA Agent (LLM-Powered Testing System)
 
-<p align="center">
-  📍 Canada • 💡 Building scalable frameworks • ⚡ Exploring AI in Testing
-</p>
+> 🚀 A step toward **self-driving quality engineering** — an AI agent that can plan, generate, execute, and validate test workflows autonomously.
 
 ---
 
-## 👨‍💻 About Me
-- 🔭 Working as **SDET Lead**
-- 🧪 Specialized in **UI & API Automation**
-- 🤖 Passionate about **AI-driven test frameworks**
-- 📱 Developing **React Native apps**
-- 🎯 Goal: Build **self-healing, intelligent automation systems**
+## 🌟 Why This Project Matters
+
+Modern systems are too complex for traditional test automation.
+
+This project demonstrates how **AI agents can transform QA** by:
+
+- 🧠 Understanding testing goals from natural language
+- 📝 Generating test scenarios & steps dynamically
+- ⚙️ Executing workflows autonomously
+- 🔁 Self-healing failures using intelligent recovery
+- 📊 Validating outputs (including non-deterministic AI responses)
+
+👉 This is a foundation for **autonomous QA systems**
 
 ---
 
-## 🧠 AI + Automation Focus
+## 🧠 Key Capabilities
 
-```diff
-+ AI Test Case Generation
-+ Self-Healing Automation
-+ Smart Test Execution
-+ AI-based Test Data Generation
+- ✅ **Test Planning Agent**  
+  Converts user intent into structured test scenarios
+
+- ✍️ **LLM-Based Test Generation**  
+  Generates test cases, data, and assertions
+
+- ⚙️ **Execution Engine**  
+  Runs workflows across UI / API layers
+
+- 🔁 **Self-Healing Mechanism**  
+  Recovers from failures using dynamic strategies (e.g., locator changes, retries)
+
+- 📊 **Validation Layer**  
+  Handles deterministic + non-deterministic outputs (LLM validation, schema checks)
+
+- 🔄 **Feedback Loop**  
+  Learns from failures to improve future runs
+
+---
+
+## 🏗️ Architecture
