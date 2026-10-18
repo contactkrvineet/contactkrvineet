@@ -87,7 +87,7 @@
 
 ## 📊 Impact Highlights
 
-- 🚀 78% regression time reduction (5 days → 11 hrs)
+- 🚀 78% regression time reduction (5 days → 4 hrs)
 - 📉 25% reduction in production defects
 - ⚡ 40% faster test creation using AI
 - 🔍 60% faster issue detection
